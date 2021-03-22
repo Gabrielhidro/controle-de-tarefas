@@ -6,7 +6,7 @@ import "./assets/reset.css"
 
 function App() {
   return (
-    <section>
+    <section className="conteudo">
       <FormList/>
       <ListaDeNotas/>
     </section>
